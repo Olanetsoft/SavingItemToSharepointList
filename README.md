@@ -1,2 +1,2 @@
 # SavingItemToSharepointList
-How to save an item to a list on sharepoint
+How to save an item into a list on Microsoft Sharepoint
